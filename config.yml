@@ -1,0 +1,8 @@
+messeage-list:
+  #Second(s)
+  interval: 60
+  prefix: '[Hey!]'
+  messeages:
+  - 'BroadCast Messeage 1'
+  - 'BroadCast Messeage 2'
+  - 'BroadCast Messeage 3'

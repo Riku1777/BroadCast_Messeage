@@ -1,0 +1,4 @@
+name: BroadCast_Messeage
+version: 0.1-Release
+main: broadcastmsg.All
+commands:
